@@ -39,7 +39,5 @@ build/
 .mvn/wrapper
 .mvn/wrapper/maven-wrapper.properties
 
-
-HELP.MD
 mvnw.cmd
 mvnw.bat
